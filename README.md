@@ -1,7 +1,4 @@
 
-> **Language Notice**: 
-> [View in Arabic (العربية)](README_AR.md) | 
-
 ## ToDo List Console Application
 
 A simple console-based task management system built with C# that allows you to create, edit, track, and delete tasks efficiently.
